@@ -1,0 +1,2 @@
+#!/bin/bash
+head --lines=3 | last --lines=1
